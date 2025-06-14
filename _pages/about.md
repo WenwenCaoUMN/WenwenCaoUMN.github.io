@@ -49,14 +49,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.05*: &nbsp;🎉🎉 Two paper:<strong> (1) Empowering Ads, Empowered Responses: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media (Top Student Paper) </strong>, <strong>(2) “Equally Objectifying All Genders”: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin </strong> accepted by AEJMC 2024 Conference (Philadelphia, PA)
 
 # 📝 My Research (Most Recent First)
-- **[1]** *Emotion in Motion*: Emotion in Motion: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media
-- **[2]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations
-[3] Behind the click: Unveiling consumer perceptions about data privacy and data-driven advertising personalization. 
-[4] Does Body Positivity Sell? Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media
-[5] "Equally objectifying all genders": Gender and self-presentation differences among 'edge-touching' influencers on Douyin
-[6] Empowering ads, empowered responses: Unveiling the emotional and behavioral impact of femvertising in China on social media. 
-[7] Can disconnection make us discuss politics freely? A moderated-mediation model of cross-cutting exposure on social media political expression via politically motivated unfriending and blocking contingent upon fear of social isolation. 
-[8] A Louvre emergency escape model based on ant colony algorithm.  
+
+- **[1]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
+- **[2]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
+- **[3]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
+- **[4]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
+- **[5]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
+- **[6]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
+- **[7]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
+- **[8]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm  
 
 
 <!--
