@@ -27,7 +27,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *Sep 2017 - Jun 2021*, B.Eng in Software Engineering, College of Computer and Information Science, Southwest Univeristy (China)
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Two paper accepted by AEJMC 2024 Conference (Philadelphia, PA)
+- *2025.03*: &nbsp;🎉🎉 A paper accepted by IAMCR 2025 Conference (Singapore)
+- *2024.11*: &nbsp;🎉🎉 A paper accepted by AAA 2025 Conference (Pittsburgh, PA)
+- *2024.05*: &nbsp;🎉🎉 Two paper: "Empowering Ads, Empowered Responses: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media", "“Equally Objectifying All Genders”: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin" accepted by AEJMC 2024 Conference (Philadelphia, PA)
 - *2024.09*: &nbsp;🎉🎉 Started my Doctor of Philosophy - PhD at University of Minnesota
 - *2024.11*: &nbsp;🎉🎉 A paper accepted by AAA 2025 Conference (Pittsburgh, PA)
 
