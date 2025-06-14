@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenwen Cao"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "emmacao993/wenwencao.github.io"
 google_scholar_stats_use_cdn : true
 
