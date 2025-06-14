@@ -21,9 +21,11 @@ I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism 
 
 My research focuses on <strong> advertising </strong> and <strong> computational social science </strong>, with a particular interest in applying computational methods to advertising research. I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
 
-I’ve presented my work at leading communication conferences, including <strong> AEJMC, IAMCR, AAA, and ICORIA </strong>.
+I’ve presented my work at leading communication conferences, including <strong> AEJMC, IAMCR, AAA, and ICORIA</strong>.
 
-I’m always open to collaboration — feel free to reach out via email if you're interested in working together.
+I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijna](https://cla.umn.edu/about/directory/profile/segijn).
+
+I’m always open to collaboration — feel free to reach out via email if you're interested in working together :)
 
 
 <!--
