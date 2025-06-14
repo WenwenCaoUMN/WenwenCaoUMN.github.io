@@ -27,8 +27,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *Sep 2017 - Jun 2021*, B.Eng in Software Engineering, College of Computer and Information Science, Southwest Univeristy (China)
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Two paper: (1) <strong> Emotion in Motion: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media </strong> (2) <strong> Empowering or Hindering? How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations </strong> accepted by AEJMC 2025 Conference (San Francisco, CA)
-- - *2025.05*: &nbsp;🎉🎉 Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>.
+- *2025.05*: &nbsp;🎉🎉 Two paper: <strong>(1) Emotion in Motion: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media </strong> <strong>(2) Empowering or Hindering? How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations </strong> accepted by AEJMC 2025 Conference (San Francisco, CA)
+- *2025.05*: &nbsp;🎉🎉 Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>.
 - *2025.04*: &nbsp;🎉🎉 <strong> Behind the click: Unveiling consumer perceptions about data privacy and data-driven advertising personalization </strong> Accepted by ICORIA 2025 (Rotterdam, NL)
 - *2025.03*: &nbsp;🎉🎉 Honored to be appointed as the <strong> Social Media Manager </strong> for *Journal of Advertising*.
 - *2025.03*: &nbsp;🎉🎉 <strong> Does Body Positivity Sell? Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media </strong> accepted by IAMCR 2025 Conference (Singapore)
