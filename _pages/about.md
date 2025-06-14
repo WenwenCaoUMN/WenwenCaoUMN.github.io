@@ -19,7 +19,7 @@ redirect_from:
 
 I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities.
 
-My research focuses on advertising and computational social science, with a particular interest in applying computational methods to advertising research. Currently, I’m exploring topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages.
+My research focuses on advertising and computational social science, with a particular interest in applying computational methods to advertising research. I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
 
 I’ve presented my work at leading communication conferences, including AEJMC, IAMCR, AAA, and ICORIA.
 
