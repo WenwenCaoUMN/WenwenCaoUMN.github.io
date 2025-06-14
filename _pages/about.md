@@ -32,12 +32,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.04*: &nbsp;🎉🎉 <strong> Behind the click: Unveiling consumer perceptions about data privacy and data-driven advertising personalization </strong> Accepted by ICORIA 2025 (Rotterdam, NL)
 - *2025.03*: &nbsp;🎉🎉 Honored to be appointed as the <strong> Social Media Manager </strong> for *Journal of Advertising*.
 - *2025.03*: &nbsp;🎉🎉 <strong> Does Body Positivity Sell? Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media </strong> accepted by IAMCR 2025 Conference (Singapore)
-- *2024.11*: &nbsp;🎉🎉 <strong> Empowering Ads, Empowered Responses: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media </strong> (Top Student Paper)  accepted by AAA 2025 Conference (Pittsburgh, PA)
+- *2024.11*: &nbsp;🎉🎉 <strong> Empowering Ads, Empowered Responses: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media </strong> accepted by AAA 2025 Conference (Pittsburgh, PA)
+- *2024.09*: &nbsp;🎉🎉 Started my Doctor of Philosophy - PhD at University of Minnesota
 - *2024.08*: &nbsp;🎉🎉 Excited to serve as the <strong> Graduate Student Representative </strong> for AEJMC's Advertising Division.
 - *2024.05*: &nbsp;🎉🎉 Grateful to be awarded the <strong> Top Student Paper fellowship </strong>, including a <strong> travel grant </strong>, by the Advertising Division of AEJMC
-- *2024.05*: &nbsp;🎉🎉 Two paper:<strong> (1) Empowering Ads, Empowered Responses: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media </strong>, <strong>(2) “Equally Objectifying All Genders”: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin </strong> accepted by AEJMC 2024 Conference (Philadelphia, PA)
-- *2024.09*: &nbsp;🎉🎉 Started my Doctor of Philosophy - PhD at University of Minnesota
-- *2024.11*: &nbsp;🎉🎉 A paper accepted by AAA 2025 Conference (Pittsburgh, PA)
+- *2024.05*: &nbsp;🎉🎉 Two paper:<strong> (1) Empowering Ads, Empowered Responses: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media (Top Student Paper) </strong>, <strong>(2) “Equally Objectifying All Genders”: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin </strong> accepted by AEJMC 2024 Conference (Philadelphia, PA)
 
 <!--
 # 📝 Publications 
