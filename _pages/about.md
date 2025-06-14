@@ -32,6 +32,24 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
+# 📝 My Research (Most Recent First)
+
+- **[1]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
+- **[2]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
+- **[3]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
+- **[4]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
+- **[5]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
+- **[6]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
+- **[7]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
+- **[8]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm  
+
+
+# 🎖 Honors and Awards
+- *2025.05* AEJMC Diversity and Inclusion Career Development/MCSD Fellowship
+- *2024.08* Third Place Top Student Paper, AEJMC Advertising Division
+- *2019.12* First Prize of Province Level, China Undergraduate Mathematical Contest in Modeling
+- *2019.04* Honorable Mention of MCM, Consortium for Mathematics and its Applications, USA
+
 
 # 📖 Educations
 - *Sep 2024 - Present*, Ph.D. in Mass Communication, Hubbard School of Journalism and Mass Communication, Univeristy of Minnesota
@@ -49,17 +67,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.08*: &nbsp;🎉🎉 Excited to serve as the <strong> Graduate Student Representative </strong> for AEJMC's Advertising Division.
 - *2024.05*: &nbsp;🎉🎉 Grateful to be awarded the <strong> Top Student Paper fellowship </strong>, including a <strong> travel grant </strong>, by the Advertising Division of AEJMC
 - *2024.05*: &nbsp;🎉🎉 Two paper accepted by AEJMC 2024 Conference (Philadelphia, PA)
-
-# 📝 My Research (Most Recent First)
-
-- **[1]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
-- **[2]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
-- **[3]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
-- **[4]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
-- **[5]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
-- **[6]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
-- **[7]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
-- **[8]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm  
 
 
 <!--
@@ -81,11 +88,6 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 
-# 🎖 Honors and Awards
-- *2025.05* AEJMC Diversity and Inclusion Career Development/MCSD Fellowship
-- *2024.08* Third Place Top Student Paper, AEJMC Advertising Division
-- *2019.12* First Prize of Province Level, China Undergraduate Mathematical Contest in Modeling
-- *2019.04* Honorable Mention of MCM, Consortium for Mathematics and its Applications, USA
 
 <!-- 
 # 💬 Invited Talks
