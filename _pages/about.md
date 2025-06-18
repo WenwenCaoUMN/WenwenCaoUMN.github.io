@@ -19,13 +19,27 @@ redirect_from:
 
 I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities, advised by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh).
 
-My research focuses on <strong> advertising </strong> and <strong> computational social science </strong>, with a particular interest in applying computational methods to advertising research. I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
+My research focuses on <strong> advertising </strong> and <strong> computational social science </strong>, with a particular interest in applying computational methods to advertising research (e.g., Social Network Analysis, Natural Language Processing, Computer Vision). I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
 
 I’ve presented my work at leading communication conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), and the International Conference on Research in Advertising (<strong>ICORIA</strong>).
 
 I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijna](https://cla.umn.edu/about/directory/profile/segijn).
 
 I’m always open to collaboration — feel free to reach out via email if you're interested in working together :)
+
+
+# 🔥 News
+- *2025.05*: &nbsp; Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)! See you in San Francisco!
+- *2025.05*: &nbsp; Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>!
+- *2025.04*: &nbsp; A paper accepted by ICORIA 2025 (Rotterdam, NL)!
+- *2025.03*: &nbsp; Honored to be appointed as the <strong> AAA Graduate Student Interest Committee </strong>!
+- *2025.03*: &nbsp; Honored to be appointed as the <strong> Social Media Manager </strong> for *Journal of Advertising*!
+- *2025.03*: &nbsp; A paper accepted by IAMCR 2025 Conference (Singapore)!
+- *2024.11*: &nbsp; A paper accepted by AAA 2025 Conference (Pittsburgh, PA)!
+- *2024.09*: &nbsp; Started my Doctor of Philosophy - PhD at University of Minnesota!
+- *2024.08*: &nbsp; Excited to serve as the <strong> Graduate Student Representative </strong> for AEJMC's Advertising Division!
+- *2024.05*: &nbsp; Grateful to be awarded the <strong> Top Student Paper fellowship </strong>, including a <strong> travel grant </strong>, by the Advertising Division of AEJMC!
+- *2024.05*: &nbsp; Two paper accepted by AEJMC 2024 Conference (Philadelphia, PA)!
 
 
 <!--
@@ -55,18 +69,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *Sep 2024 - Present*, Ph.D. in Mass Communication, Hubbard School of Journalism and Mass Communication, Univeristy of Minnesota
 - *Jul 2021 - Dec 2023*, M.A. in Marketing Communication, Faculty of Arts, Univeristy of Melbourne (Australia)
 - *Sep 2017 - Jun 2021*, B.Eng in Software Engineering, College of Computer and Information Science, Southwest Univeristy (China)
-
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)
-- *2025.05*: &nbsp;🎉🎉 Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>.
-- *2025.04*: &nbsp;🎉🎉 A paper accepted by ICORIA 2025 (Rotterdam, NL)
-- *2025.03*: &nbsp;🎉🎉 Honored to be appointed as the <strong> Social Media Manager </strong> for *Journal of Advertising*.
-- *2025.03*: &nbsp;🎉🎉 A paper accepted by IAMCR 2025 Conference (Singapore)
-- *2024.11*: &nbsp;🎉🎉 A paper accepted by AAA 2025 Conference (Pittsburgh, PA)
-- *2024.09*: &nbsp;🎉🎉 Started my Doctor of Philosophy - PhD at University of Minnesota
-- *2024.08*: &nbsp;🎉🎉 Excited to serve as the <strong> Graduate Student Representative </strong> for AEJMC's Advertising Division.
-- *2024.05*: &nbsp;🎉🎉 Grateful to be awarded the <strong> Top Student Paper fellowship </strong>, including a <strong> travel grant </strong>, by the Advertising Division of AEJMC
-- *2024.05*: &nbsp;🎉🎉 Two paper accepted by AEJMC 2024 Conference (Philadelphia, PA)
 
 
 <!--
