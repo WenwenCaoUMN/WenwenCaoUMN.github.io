@@ -23,7 +23,7 @@ My interdisciplinary background in software engineering (B.Eng) informs my resea
  
 I’ve presented my work at leading communication conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), and the International Conference on Research in Advertising (<strong>ICORIA</strong>).
 
-I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijna](https://cla.umn.edu/about/directory/profile/segijn).
+I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijn](https://cla.umn.edu/about/directory/profile/segijn).
 
 I’m always open to collaboration — feel free to reach out via email if you're interested in working together :)
 
