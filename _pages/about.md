@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities, advised by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh).
+I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities, advised by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh). I completed my Master’s degree at the University of Melbourne, where I was advised by [Dr. Wonsun Shin](https://findanexpert.unimelb.edu.au/profile/785255-wonsun-shin).
 
-My research focuses on <strong> advertising </strong> and <strong> computational social science </strong>, with a particular interest in applying computational methods to advertising research (e.g., Social Network Analysis, Natural Language Processing, Computer Vision). I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
-
+My interdisciplinary background in software engineering (B.Eng) informs my research focus on <strong>advertising</strong> and <strong>computational social science</strong>, with a particular interest in applying computational methods to advertising research (e.g., Social Network Analysis, Natural Language Processing, Computer Vision). I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
+ 
 I’ve presented my work at leading communication conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), and the International Conference on Research in Advertising (<strong>ICORIA</strong>).
 
 I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijna](https://cla.umn.edu/about/directory/profile/segijn).
