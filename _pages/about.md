@@ -48,6 +48,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 My Research (Most Recent First)
 
+<p style="font-size: 0.9rem; margin-bottom: 1rem;">
+  For more details, see my <a href="/assets/Wenwen_CV.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
+</p>
+
 - **[1]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
 - **[2]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
 - **[3]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
