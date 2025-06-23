@@ -2,11 +2,14 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}
 
-    <!-- 🔽 插入按钮开始 -->
-    <a class="btn btn--inverse btn--large" href="/assets/Wenwen Cao_CV_06232025.pdf" target="_blank">
-      Curriculum Vitae
-    </a>
-    <!-- 🔼 插入按钮结束 -->
+    <!-- 🔽 插入说明文字和按钮 -->
+  <p style="margin-top: 1em; margin-bottom: 0.5em;">
+    For more information, please refer to my CV:
+  </p>
+  <a class="btn btn--inverse btn--large" href="/assets/Wenwen_CV.pdf" target="_blank">
+    Curriculum Vitae
+  </a>
+  <!-- 🔼 插入结束 -->
     
     {% endif %}
   {% if page.sidebar %}
