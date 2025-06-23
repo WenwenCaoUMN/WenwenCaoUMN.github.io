@@ -110,7 +110,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div style="max-width: 400px; margin: 0 auto;">
   <script type="text/javascript" id="clustrmaps" 
-    src="//clustrmaps.com/map_v2.js?d=SZ_zLv2PrWp34aoHrDp9xmke1oLrRR_9WWHyL8-0xX8&cl=ffffff&w=a">
+    src="//clustrmaps.com/map_v2.js?d=5hfnF5I6uzO2Enm-AIg1_AWnLaPk9mWymyKEBmmJmpM&cl=ffffff&w=a">
   </script>
 </div>
-
