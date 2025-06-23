@@ -105,3 +105,12 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+
+<h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
+
+<div style="max-width: 400px; margin: 0 auto;">
+  <script type="text/javascript" id="clustrmaps" 
+    src="//clustrmaps.com/map_v2.js?d=SZ_zLv2PrWp34aoHrDp9xmke1oLrRR_9WWHyL8-0xX8&cl=ffffff&w=a">
+  </script>
+</div>
+
