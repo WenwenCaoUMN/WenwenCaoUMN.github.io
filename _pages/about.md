@@ -29,7 +29,7 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 
 
 # 🔥 News
-- *2025.05*: &nbsp; A paper accepted by ANZMAC 2026 Conference (Sydney, Australia)!
+- *2025.08*: &nbsp; A paper accepted by ANZMAC 2026 Conference (Sydney, Australia)!
 - *2025.05*: &nbsp; Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)! 
 - *2025.05*: &nbsp; Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>!
 - *2025.04*: &nbsp; A paper accepted by ICORIA 2025 (Rotterdam, NL)!
