@@ -56,6 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
   For more details, see my <a href="/assets/Wenwen Cao_CV_08162025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
 </p>
 
+- **[9]** Feeling Machines: How Emotional Expression in GenAI Recommendations Shapes Consumer Decisions
 - **[8]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
 - **[7]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
 - **[6]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
@@ -67,9 +68,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2025.11* Dan Wackman First-Year Graduate Student Research Award
-- *2025.05* AEJMC Diversity and Inclusion Career Development/MCSD Fellowship
-- *2024.08* Third Place Top Student Paper, AEJMC Advertising Division
+- *2025.11* DanWackman First-Year Graduate Student Research Award, University ofMinnesota
+- *2025.05* Diversity and Inclusion Career Development/MCSD Fellowship, Mass Communication & Society Division, Association for Education in Journalism andMass Communication (AEJMC)
+- *2025.04* Shea Fellowship, University ofMinnesota
+- *2024.08* Travel Grant, Advertising Division, Association for Education in Journalism andMass Communication (AEJMC)
+- *2024.08* Top Student Paper Award, Advertising Division, Association for Education in Journalism and Mass Communication (AEJMC)
+- *2021.06* Outstanding Undergraduate Thesis, Southwest University (China)
+- *2021.06* Outstanding Graduates, Southwest University (China)
 - *2019.12* First Prize of Province Level, China Undergraduate Mathematical Contest in Modeling
 - *2019.04* Honorable Mention of MCM, Consortium for Mathematics and its Applications, USA
 
