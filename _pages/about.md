@@ -34,7 +34,7 @@ I’m always open to collaboration — feel free to reach out via email if you'r
   For more details, see my <a href="/assets/Wenwen Cao_CV_12222025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
 </p>
 
-- **[9]** *Feeling Machines*: How Emotional Expression in GenAI Recommendations Shapes Consumer Decisions
+- **[10]** *Feeling Machines*: How Emotional Expression in GenAI Recommendations Shapes Consumer Decisions
 - **[9]** *Beyond Citations*: A cross-domain metric for dataset impact and shareability
 - **[8]** *Between Fuels and Dampeners*: Emotional Trade-offs in Retweet Network of Controversial Advertising 
 - **[7]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
