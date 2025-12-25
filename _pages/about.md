@@ -29,7 +29,8 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 
 
 # 🔥 News
-- *2025.05*: &nbsp; Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)! See you in San Francisco!
+- *2025.08*: &nbsp; A paper accepted by ANZMAC 2026 Conference (Sydney, Australia)!
+- *2025.05*: &nbsp; Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)! 
 - *2025.05*: &nbsp; Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>!
 - *2025.04*: &nbsp; A paper accepted by ICORIA 2025 (Rotterdam, NL)!
 - *2025.03*: &nbsp; Honored to be appointed as the <strong> AAA Graduate Student Interest Committee </strong>!
@@ -49,7 +50,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 My Research (Most Recent First)
 
 <p style="font-size: 0.9rem; margin-bottom: 1rem;">
-  For more details, see my <a href="/assets/Wenwen Cao_CV_06232025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
+  For more details, see my <a href="/assets/Wenwen Cao_CV_08162025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
 </p>
 
 - **[1]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
