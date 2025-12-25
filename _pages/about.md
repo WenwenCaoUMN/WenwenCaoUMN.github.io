@@ -28,6 +28,24 @@ I am an active member of the Minnesota Computational Advertising Laboratory (MCA
 I’m always open to collaboration — feel free to reach out via email if you're interested in working together :)
 
 
+# 📝 My Research (Most Recent First)
+
+<p style="font-size: 0.9rem; margin-bottom: 1rem;">
+  For more details, see my <a href="/assets/Wenwen Cao_CV_08162025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
+</p>
+
+- **[9]** *Feeling Machines*: How Emotional Expression in GenAI Recommendations Shapes Consumer Decisions
+- **[9]** *Beyond Citations*: A cross-domain metric for dataset impact and shareability
+- **[8]** *Between Fuels and Dampeners*: Emotional Trade-offs in Retweet Network of Controversial Advertising 
+- **[7]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
+- **[6]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
+- **[5]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
+- **[4]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
+- **[3]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
+- **[2]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
+- **[1]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm 
+
+
 # 🔥 News
 
 - *2025.12*: &nbsp; A paper accepted by AAA 2026 Conference (Austin, TX)! See you in Austin!
@@ -49,22 +67,6 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
-
-# 📝 My Research (Most Recent First)
-
-<p style="font-size: 0.9rem; margin-bottom: 1rem;">
-  For more details, see my <a href="/assets/Wenwen Cao_CV_08162025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
-</p>
-
-- **[9]** Feeling Machines: How Emotional Expression in GenAI Recommendations Shapes Consumer Decisions
-- **[8]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
-- **[7]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
-- **[6]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
-- **[5]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
-- **[4]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
-- **[3]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
-- **[2]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
-- **[1]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm  
 
 
 # 🎖 Honors and Awards
