@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities, advised by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh). I completed my Master’s degree at the University of Melbourne, where I was advised by [Dr. Wonsun Shin](https://findanexpert.unimelb.edu.au/profile/785255-wonsun-shin).
+I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities, advised by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Alvin Zhou](https://cla.umn.edu/about/directory/profile/alvinyxz). I completed my Master’s degree at the University of Melbourne, where I was advised by [Dr. Wonsun Shin](https://findanexpert.unimelb.edu.au/profile/785255-wonsun-shin).
 
 My interdisciplinary background in software engineering (B.Eng) informs my research focus on <strong>advertising</strong> and <strong>computational social science</strong>, with a particular interest in applying computational methods to advertising research (e.g., Social Network Analysis, Natural Language Processing, Computer Vision). I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
  
-I’ve presented my work at leading communication conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), and the International Conference on Research in Advertising (<strong>ICORIA</strong>).
+I’ve presented my work at leading communication conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), the International Conference on Research in Advertising (<strong>ICORIA</strong>) and Australian and New Zealand Marketing Academy (<strong>ANZMAC</strong>).
 
 I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijn](https://cla.umn.edu/about/directory/profile/segijn).
 
@@ -29,14 +29,19 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 
 
 # 🔥 News
-- *2025.08*: &nbsp; A paper accepted by ANZMAC 2026 Conference (Sydney, Australia)!
-- *2025.05*: &nbsp; Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)! 
+
+=======
+- *2025.12*: &nbsp; A paper accepted by AAA 2026 Conference (Austin, TX)! See you in Austin!
+- *2025.11*: &nbsp; Honored to be selected for the <strong> Dan Wackman First-Year Graduate Student Research Award </strong>!
+- *2025.08*: &nbsp; A paper accepted by ANZMAC 2025 Conference (Sydney, Australia)!
+- *2025.05*: &nbsp; Two paper accepted by AEJMC 2025 Conference (San Francisco, CA)! See you in San Francisco!
+>>>>>>> Stashed changes
 - *2025.05*: &nbsp; Honored to be selected for the <strong> 2025 AEJMC Diversity and Inclusion Career Development/MCSD Fellowship </strong>!
 - *2025.04*: &nbsp; A paper accepted by ICORIA 2025 (Rotterdam, NL)!
 - *2025.03*: &nbsp; Honored to be appointed as the <strong> AAA Graduate Student Interest Committee </strong>!
 - *2025.03*: &nbsp; Honored to be appointed as the <strong> Social Media Manager </strong> for *Journal of Advertising*!
-- *2025.03*: &nbsp; A paper accepted by IAMCR 2025 Conference (Singapore)!
-- *2024.11*: &nbsp; A paper accepted by AAA 2025 Conference (Pittsburgh, PA)!
+- *2025.03*: &nbsp; A paper accepted by IAMCR 2025 Conference (Singapore)! See you in Singapore!
+- *2024.11*: &nbsp; A paper accepted by AAA 2025 Conference (Pittsburgh, PA)! See you in Pittsburgh!
 - *2024.09*: &nbsp; Started my Doctor of Philosophy - PhD at University of Minnesota!
 - *2024.08*: &nbsp; Excited to serve as the <strong> Graduate Student Representative </strong> for AEJMC's Advertising Division!
 - *2024.05*: &nbsp; Grateful to be awarded the <strong> Top Student Paper fellowship </strong>, including a <strong> travel grant </strong>, by the Advertising Division of AEJMC!
@@ -53,17 +58,18 @@ My research interest includes neural machine translation and computer vision. I 
   For more details, see my <a href="/assets/Wenwen Cao_CV_08162025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
 </p>
 
-- **[1]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
-- **[2]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
-- **[3]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
-- **[4]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
-- **[5]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
-- **[6]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
-- **[7]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
-- **[8]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm  
+- **[8]** *Emotion in Motion*: How Discrete Emotions and Their Intensity Drive the Diffusion of Gendered Controversial Advertising on Social Media  
+- **[7]** *Empowering or Hindering?*: How Today’s Digital Media Consumers Really Feel About Data Privacy Issues and Privacy Protection Regulations  
+- **[6]** *Behind the Click*: Unveiling Consumer Perceptions About Data Privacy and Data-Driven Advertising Personalization  
+- **[5]** *Does Body Positivity Sell?*: Understanding Consumer Reactions Toward Body Positivity Campaigns on Social Media  
+- **[4]** *"Equally Objectifying All Genders"*: Gender and Self-Presentation Differences Among 'Edge-Touching' Influencers on Douyin  
+- **[3]** *Empowering Ads, Empowered Responses*: Unveiling the Emotional and Behavioral Impact of Femvertising in China on Social Media  
+- **[2]** *Can Disconnection Make Us Discuss Politics Freely?*: A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent Upon Fear of Social Isolation  
+- **[1]** *A Louvre Emergency Escape Model*: Based on Ant Colony Algorithm  
 
 
 # 🎖 Honors and Awards
+- *2025.11* Dan Wackman First-Year Graduate Student Research Award
 - *2025.05* AEJMC Diversity and Inclusion Career Development/MCSD Fellowship
 - *2024.08* Third Place Top Student Paper, AEJMC Advertising Division
 - *2019.12* First Prize of Province Level, China Undergraduate Mathematical Contest in Modeling
