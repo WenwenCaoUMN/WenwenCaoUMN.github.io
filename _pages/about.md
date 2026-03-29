@@ -19,9 +19,9 @@ redirect_from:
 
 I’m a Ph.D. student in Mass Communication at the Hubbard School of Journalism and Mass Communication, University of Minnesota Twin Cities, advised by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Alvin Zhou](https://cla.umn.edu/about/directory/profile/alvinyxz). I completed my Master’s degree at the University of Melbourne, where I was advised by [Dr. Wonsun Shin](https://findanexpert.unimelb.edu.au/profile/785255-wonsun-shin).
 
-My interdisciplinary background in software engineering (B.Eng) informs my research focus on <strong>advertising</strong> and <strong>computational social science</strong>, with a particular interest in applying computational methods to advertising research (e.g., Social Network Analysis, Natural Language Processing, Computer Vision). I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, as well as how emotions influence the spread of messages. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
+My interdisciplinary background in software engineering (B.Eng) informs my research focus on <strong>advertising</strong> and <strong>computational social science</strong>, with a particular interest in applying computational methods to advertising research (e.g., Social Network Analysis, Natural Language Processing, Computer Vision). I’m investigating topics such as consumers’ perceptions of gender and body representation in advertising, how emotions influence the spread of messages and how consumers interact with GenAI chatbots. More recently, I’ve also begun exploring how large language models (LLMs) can be applied in social science research, particularly their potential to advance research methodologies.
  
-I’ve presented my work at leading communication conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), the International Conference on Research in Advertising (<strong>ICORIA</strong>) and Australian and New Zealand Marketing Academy (<strong>ANZMAC</strong>).
+I’ve presented my work at leading communication and advertising conferences, including the Association for Education in Journalism and Mass Communication (<strong>AEJMC</strong>), the International Association for Media and Communication Research (<strong>IAMCR</strong>), the American Academy of Advertising (<strong>AAA</strong>), the International Conference on Research in Advertising (<strong>ICORIA</strong>) and Australian and New Zealand Marketing Academy (<strong>ANZMAC</strong>).
 
 I am an active member of the Minnesota Computational Advertising Laboratory (MCAL), directed by [Dr. Jisu Huh](https://cla.umn.edu/about/directory/profile/jhuh) and [Dr. Jaideep Srivastava](https://cse.umn.edu/cs/jaideep-srivastava), and Research in Strategic Communication (RiSC) Lab, led by [Dr. Claire M. Segijn](https://cla.umn.edu/about/directory/profile/segijn).
 
@@ -34,6 +34,8 @@ I’m always open to collaboration — feel free to reach out via email if you'r
   For more details, see my <a href="/assets/Wenwen Cao_CV_12222025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
 </p>
 
+- **[11]** The Double-Edged Sword of Product Specificity in Conversation-Related Advertising: 
+A Privacy Calculus Perspective
 - **[10]** *Feeling Machines*: How Emotional Expression in GenAI Recommendations Shapes Consumer Decisions
 - **[9]** *Beyond Citations*: A cross-domain metric for dataset impact and shareability
 - **[8]** *Between Fuels and Dampeners*: Emotional Trade-offs in Retweet Network of Controversial Advertising 
@@ -47,7 +49,7 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 
 
 # 🔥 News
-
+- *2026.03*: &nbsp; Honored to be selected for the <strong> ANA Educational Foundation (AEF) 2026 Visiting Professor Program (VPP) </strong>! See you in New York!
 - *2025.12*: &nbsp; A paper accepted by AAA 2026 Conference (Austin, TX)! See you in Austin!
 - *2025.11*: &nbsp; Honored to be selected for the <strong> Dan Wackman First-Year Graduate Student Research Award </strong>!
 - *2025.08*: &nbsp; A paper accepted by ANZMAC 2025 Conference (Sydney, Australia)!
@@ -70,6 +72,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
+- *2026.01* Graduate Student Travel Scholarship, American Academy of Advertising
 - *2025.11* DanWackman First-Year Graduate Student Research Award, University ofMinnesota
 - *2025.05* Diversity and Inclusion Career Development/MCSD Fellowship, Mass Communication & Society Division, Association for Education in Journalism andMass Communication (AEJMC)
 - *2025.04* Shea Fellowship, University ofMinnesota
