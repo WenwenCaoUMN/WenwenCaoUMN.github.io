@@ -31,7 +31,7 @@ I’m always open to collaboration — feel free to reach out via email if you'r
 # 📝 My Research (Most Recent First)
 
 <p style="font-size: 0.9rem; margin-bottom: 1rem;">
-  For more details, see my <a href="/assets/Wenwen Cao_CV_12222025.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
+  For more details, see my <a href="/assets/Wenwen Cao_CV.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>.
 </p>
 
 - **[11]** The Double-Edged Sword of Product Specificity in Conversation-Related Advertising: 
