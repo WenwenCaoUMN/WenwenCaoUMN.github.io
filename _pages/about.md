@@ -49,6 +49,7 @@ A Privacy Calculus Perspective
 
 
 # 🔥 News
+- *2026.04*: &nbsp; A paper accepted by IC2S2 2026 Conference (Burlington, Vermont)! See you in Burlington!
 - *2026.03*: &nbsp; Honored to be selected for the <strong> ANA Educational Foundation (AEF) 2026 Visiting Professor Program (VPP) </strong>! See you in New York!
 - *2025.12*: &nbsp; A paper accepted by AAA 2026 Conference (Austin, TX)! See you in Austin!
 - *2025.11*: &nbsp; Honored to be selected for the <strong> Dan Wackman First-Year Graduate Student Research Award </strong>!
